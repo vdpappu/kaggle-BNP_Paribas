@@ -15,8 +15,8 @@ The challenge is to predict the category of a claim based on features available 
 * Run the ipython notebooks in the number sequence 00_* through 05_*
 * Brief description of code files:
 	
-  <b>00_data_preprocessing_and_eda.ipynb</b>
-	For data loading and pre processing the data and initial eda
+  	<b>00_data_preprocessing_and_eda.ipynb</b>
+	<br>For data loading and pre processing the data and initial eda
 
 	<b>01_data_transformation.ipynb</b>
 	<br>Necessary data transformations for model building
