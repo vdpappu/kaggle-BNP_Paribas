@@ -19,16 +19,16 @@ The challenge is to predict the category of a claim based on features available 
 	For data loading and pre processing the data and initial eda
 
 	<b>01_data_transformation.ipynb</b>
-	Necessary data transformations for model building
+	<br>Necessary data transformations for model building
 
-	<b>02_missing_value_analysis.ipynb
-	Various approaches for handling missing values
+	<b>02_missing_value_analysis.ipynb</b>
+	<br>Various approaches for handling missing values
 
 	<b>03_xgboost_classifier.ipynb</b>
-	Initial xgboost classifier model and performance analysis metrics
+	<br>Initial xgboost classifier model and performance analysis metrics
 
 	<b>04_xgboost_param_importance.ipynb</b>
-	Parameter importance analysis for xgboost model
+	<br>Parameter importance analysis for xgboost model
 
 	<b>05_extratree_PolyFet_Calib.ipynb</b>
-	Extra tree classifier for with polynomial and caliberated features
+	<br>Extra tree classifier for with polynomial and caliberated features
